@@ -1,0 +1,6 @@
+<config>
+    <server>
+        <port>12345</port>
+        <audioDirectory>audio</audioDirectory>
+    </server>
+</config>
